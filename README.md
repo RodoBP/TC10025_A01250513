@@ -9,4 +9,5 @@ Luis Rodolfo Bojorquez Pineda
 A01250513
 
 ## LISTADO DE EJERCICIOS
-* Lista de los ejercicios contenidos en el repositorio
+* Obtencion de estadisticas descriptivas
+* Mapas de calor y boxplots
